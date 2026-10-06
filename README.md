@@ -27,4 +27,4 @@ SMS Spam Collection Dataset
 Accuracy Achieved: 96.23%
 
 ## Author
-Shraddha Khalkar
+Komal Kadam
